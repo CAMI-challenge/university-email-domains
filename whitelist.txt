@@ -1,3 +1,4 @@
+.gov
 augustana.ab.ca
 concordia.ab.ca
 kingsu.ab.ca
