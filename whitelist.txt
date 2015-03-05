@@ -1,8 +1,9 @@
-fer.hr
 .edu
-lmu.de
-hhu.de
 .gov
+fer.hr
+hhu.de
+lmu.de
+helmholtz-hzi.de
 augustana.ab.ca
 concordia.ab.ca
 kingsu.ab.ca
