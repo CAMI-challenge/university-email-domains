@@ -1,9 +1,10 @@
 .edu
 .gov
 fer.hr
+helmholtz-hzi.de
 hhu.de
 lmu.de
-helmholtz-hzi.de
+unq.edu.ar
 augustana.ab.ca
 concordia.ab.ca
 kingsu.ab.ca
