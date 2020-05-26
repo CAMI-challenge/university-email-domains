@@ -7744,3 +7744,6 @@ yukoncollege.yk.ca
 gfc.za.net
 pz.zgora.pl
 wsp.zgora.pl
+wur.nl
+ufz.de
+idiv.de
